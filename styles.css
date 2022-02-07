@@ -1,0 +1,35 @@
+/*
+Name: Anastasiya Aleksandrova
+File Name: styles.css
+Project Name: Project 7
+Date: 11/2/2021
+*/
+
+body {
+	background-color: #325dad;
+}
+
+header {
+	text-align: center;
+	color: #d4e0f7;
+}
+
+h1, h2, h3 {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+h4, p {
+	font-family: Arial, sans-serif;
+}
+
+article {
+	margin: 2% 15%;
+	border: 6px solid #642891;
+	padding: 2%;
+	background-color: #d4e0f7;
+}
+
+
+
+
+
